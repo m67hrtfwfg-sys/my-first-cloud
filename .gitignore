@@ -1,3 +1,4 @@
 mysql/
 wp_files/
 backup.sql
+.DS_store
